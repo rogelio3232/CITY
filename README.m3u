@@ -1,0 +1,157 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",ABE TV
+http://138.186.20.245:8000/play/a089/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",ANTV
+http://138.186.20.245:8000/play/a06m/index.m3u8
+#EXTINF:0 tvg-id="ATV.am" group-title="Channels",ATV
+http://138.186.20.245:8000/play/a026/index.m3u8
+#EXTINF:0 tvg-id="AXN.bg" group-title="Channels",AXN
+http://138.186.20.245:8000/play/a082/index.m3u8
+#EXTINF:0 tvg-id="America2.ar" group-title="Channels",AmericaTV
+http://138.186.20.245:8000/play/a024/index.m3u8
+#EXTINF:0 tvg-id="animal_rus" group-title="Channels",Animal Planet
+http://138.186.20.245:8000/play/a0a4/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",BOLIVIA TV
+http://138.186.20.245:8000/play/a08m/index.m3u8
+#EXTINF:0 tvg-id="baby-tv" group-title="Channels",Baby TV
+http://138.186.20.245:8000/play/a09f/index.m3u8
+#EXTINF:0 tvg-id="Canal13.ar" group-title="Channels",Canal 13
+http://138.186.20.245:8000/play/a07r/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal Caracol
+http://138.186.20.245:8000/play/a02i/index.m3u8
+#EXTINF:0 tvg-id="CanalEstrellas.sp" group-title="Channels",Canal Estrellas
+http://138.186.20.245:8000/play/a0a6/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal Institucional
+http://138.186.20.245:8000/play/a02m/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal RCN
+http://138.186.20.245:8000/play/a02j/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal Uno
+http://138.186.20.245:8000/play/a02g/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal del Congreso
+http://138.186.20.245:8000/play/a02n/index.m3u8
+#EXTINF:0 tvg-id="CapitalTV.uk" group-title="Channels",Capital
+http://138.186.20.245:8000/play/a02y/index.m3u8
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Channels",Cinemax
+http://138.186.20.245:8000/play/a081/index.m3u8
+#EXTINF:0 tvg-id="CityTV.bg" group-title="Channels",City TV
+http://138.186.20.245:8000/play/a02x/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Conciencia
+http://138.186.20.245:8000/play/a06q/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Cristovisiðn
+http://138.186.20.245:8000/play/a07c/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",De PelŦcula
+http://138.186.20.245:8000/play/a094/index.m3u8
+#EXTINF:0 tvg-id="discov_rus" group-title="Channels",Discovery Channel
+http://138.186.20.245:8000/play/a0a3/index.m3u8
+#EXTINF:0 tvg-id="id-extra" group-title="Channels",Discovery ID
+http://138.186.20.245:8000/play/a096/index.m3u8
+#EXTINF:0 tvg-id="disney" group-title="Channels",Disney Channel
+http://138.186.20.245:8000/play/a0a2/index.m3u8
+#EXTINF:0 tvg-id="ESPN4.nl" group-title="Channels",ESPN 4
+http://138.186.20.245:8000/play/a080/index.m3u8
+#EXTINF:0 tvg-id="Enlace.us" group-title="Channels",Enlace
+http://138.186.20.245:8000/play/a07d/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Esne TV
+http://138.186.20.245:8000/play/a07w/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",FANB
+http://138.186.20.245:8000/play/a06r/index.m3u8
+#EXTINF:0 tvg-id="FX.uk" group-title="Channels",FX
+http://138.186.20.245:8000/play/a084/index.m3u8
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Channels",Fox Sports 2
+http://138.186.20.245:8000/play/a0a8/index.m3u8
+#EXTINF:0 tvg-id="GolTV.cl" group-title="Channels",GOL TV
+http://138.186.20.245:8000/play/a0a9/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",GamaTV
+http://138.186.20.245:8000/play/a02d/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Gigavision
+http://138.186.20.245:8000/play/a08n/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Globovision
+http://138.186.20.245:8000/play/a07o/index.m3u8
+#EXTINF:0 tvg-id="HomeHealth.mx" group-title="Channels",HomeandHealth
+http://138.186.20.245:8000/play/a07z/index.m3u8
+#EXTINF:0 tvg-id="iTele.fr" group-title="Channels",La Tele
+http://138.186.20.245:8000/play/a03j/index.m3u8
+#EXTINF:0 tvg-id="Latina.pe" group-title="Channels",Latina
+http://138.186.20.245:8000/play/a023/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Meridiano
+http://138.186.20.245:8000/play/a06o/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",NTN 24 Horas
+http://138.186.20.245:8000/play/a07t/index.m3u8
+#EXTINF:0 tvg-id="nick-jr" group-title="Channels",Nick Jr
+http://138.186.20.245:8000/play/a085/index.m3u8
+#EXTINF:0 tvg-id="NuestraTele.us" group-title="Channels",Nuestra Tele
+http://138.186.20.245:8000/play/a07u/index.m3u8
+#EXTINF:0 tvg-id="PanamericanaTV.pe" group-title="Channels",Panamericana TV
+http://138.186.20.245:8000/play/a025/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",RCN Novelas
+http://138.186.20.245:8000/play/a01w/index.m3u8
+#EXTINF:0 tvg-id="RTSSAT.rs" group-title="Channels",RTS
+http://138.186.20.245:8000/play/a03a/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Red Advenir TV
+http://138.186.20.245:8000/play/a08a/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SEO TV 2 KIDS
+http://138.186.20.245:8000/play/a095/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SEO TV 3 HD Nvls
+http://138.186.20.245:8000/play/a08c/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",SEO TV FHD
+http://138.186.20.245:8000/play/a08b/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Senal Colombia
+http://138.186.20.245:8000/play/a02o/index.m3u8
+#EXTINF:0 tvg-id="Space.br" group-title="Channels",Space
+http://138.186.20.245:8000/play/a083/index.m3u8
+#EXTINF:0 tvg-id="24dok" group-title="Channels",TBS
+http://138.186.20.245:8000/play/a020/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TLT
+http://138.186.20.245:8000/play/a07p/index.m3u8
+#EXTINF:0 tvg-id="tpo" group-title="Channels",TRO
+http://138.186.20.245:8000/play/a02v/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV Culturas
+http://138.186.20.245:8000/play/a09d/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV EPACO
+http://138.186.20.245:8000/play/a06p/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV FAMILIA
+http://138.186.20.245:8000/play/a06i/index.m3u8
+#EXTINF:0 tvg-id="TVPeru.pe" group-title="Channels",TV Peru
+http://138.186.20.245:8000/play/a028/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",TVES
+http://138.186.20.245:8000/play/a06k/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teleamazonas
+http://138.186.20.245:8000/play/a02l/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teleantioquia
+http://138.186.20.245:8000/play/a037/index.m3u8
+#EXTINF:0 tvg-id="discov_sci" group-title="Channels",Telecafe
+http://138.186.20.245:8000/play/a03k/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telecaribe
+http://138.186.20.245:8000/play/a03i/index.m3u8
+#EXTINF:0 tvg-id="Telefe.ar" group-title="Channels",Telefe
+http://138.186.20.245:8000/play/a03b/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teleislas
+http://138.186.20.245:8000/play/a02w/index.m3u8
+#EXTINF:0 tvg-id="Telemundo.mx" group-title="Channels",Telemundo
+http://138.186.20.245:8000/play/a0a7/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Telepacifico
+http://138.186.20.245:8000/play/a039/index.m3u8
+#EXTINF:0 tvg-id="Telesur.es" group-title="Channels",Telesur
+http://138.186.20.245:8000/play/a070/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Televen
+http://138.186.20.245:8000/play/a073/index.m3u8
+#EXTINF:0 tvg-id="Tooncast.mx" group-title="Channels",Tooncast
+http://138.186.20.245:8000/play/a07y/index.m3u8
+#EXTINF:0 tvg-id="Trece.es" group-title="Channels",Trece
+http://138.186.20.245:8000/play/a03l/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",UNITEL
+http://138.186.20.245:8000/play/a08k/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Unicanal
+http://138.186.20.245:8000/play/a03c/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",VALE TV
+http://138.186.20.245:8000/play/a06j/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Venevisiðn
+http://138.186.20.245:8000/play/a06h/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Channels",Venezolana de Televisiðn
+http://138.186.20.245:8000/play/a06n/index.m3u8
+#EXTINF:0 tvg-id="Vive.cl" group-title="Channels",Vive
+http://138.186.20.245:8000/play/a06l/index.m3u8
+#EXTINF:0 tvg-id="Willax.pe" group-title="Channels",WILLAX
+http://138.186.20.245:8000/play/a021/index.m3u8
+#EXTINF:0 tvg-id="zoom" group-title="Channels",Zoom
+http://138.186.20.245:8000/play/a02u/index.m3u8
